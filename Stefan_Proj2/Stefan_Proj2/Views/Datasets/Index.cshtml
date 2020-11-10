@@ -1,10 +1,10 @@
 ﻿@model IEnumerable<Stefan_Proj2.Models.Dataset>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Admin";
 }
 
-<h1>Index</h1>
+<h1>Dataset</h1>
 
 <p>
     <a asp-action="Create">Create New</a>
@@ -12,6 +12,9 @@
 <table class="table">
     <thead>
         <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.EmployeeNumber)
+            </th>
             <th>
                 @Html.DisplayNameFor(model => model.Age)
             </th>
@@ -120,6 +123,9 @@
     <tbody>
 @foreach (var item in Model) {
         <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmployeeNumber)
+            </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Age)
             </td>

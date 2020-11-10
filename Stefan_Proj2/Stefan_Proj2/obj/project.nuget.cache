@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "anR4wQwExOPqfKTfoVlxM8Fm/T2tZOFBJxlUm7qW6x+inKac3j3z/oJTdMJE/IfsMp7whutnPcOHd7PfE5h2kg==",
+  "dgSpecHash": "J4YGxV1q3Z+TVV0sHf6Us/XGgw9Ew/kmKlbdhNMbjd0oZlU/DRHUkaISemdQBfxSKgmiQZpP+lE3eDqnJvFHbw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\f5216125\\OneDrive - FRG\\Desktop\\Varsity 2020\\Semester 2\\CMPG 323 - IT Development\\Project 2\\Stefan_Proj2\\Stefan_Proj2\\Stefan_Proj2.csproj",
+  "projectFilePath": "C:\\Users\\f5216125\\OneDrive - FRG\\Desktop\\Varsity 2020\\Semester 2\\CMPG 323 - IT Development\\Project_2\\Stefan_Proj2\\Stefan_Proj2\\Stefan_Proj2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\f5216125\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.9\\microsoft.aspnetcore.cryptography.internal.3.1.9.nupkg.sha512",
     "C:\\Users\\f5216125\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.9\\microsoft.aspnetcore.cryptography.keyderivation.3.1.9.nupkg.sha512",
