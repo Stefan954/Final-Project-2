@@ -360,10 +360,6 @@ C:\Users\f5216125\OneDrive - FRG\Desktop\Varsity 2020\Semester 2\CMPG 323 - IT D
 C:\Users\f5216125\OneDrive - FRG\Desktop\Varsity 2020\Semester 2\CMPG 323 - IT Development\Project_2\Stefan_Proj2\Stefan_Proj2\obj\Debug\netcoreapp3.1\Stefan_Proj2.TagHelpers.output.cache
 C:\Users\f5216125\OneDrive - FRG\Desktop\Varsity 2020\Semester 2\CMPG 323 - IT Development\Project_2\Stefan_Proj2\Stefan_Proj2\obj\Debug\netcoreapp3.1\Stefan_Proj2.RazorCoreGenerate.cache
 C:\Users\f5216125\OneDrive - FRG\Desktop\Varsity 2020\Semester 2\CMPG 323 - IT Development\Project_2\Stefan_Proj2\Stefan_Proj2\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
-C:\Users\f5216125\OneDrive - FRG\Desktop\Varsity 2020\Semester 2\CMPG 323 - IT Development\Project_2\Stefan_Proj2\Stefan_Proj2\obj\Debug\netcoreapp3.1\Razor\Views\Datasets\Create.cshtml.g.cs
-C:\Users\f5216125\OneDrive - FRG\Desktop\Varsity 2020\Semester 2\CMPG 323 - IT Development\Project_2\Stefan_Proj2\Stefan_Proj2\obj\Debug\netcoreapp3.1\Razor\Views\Datasets\Delete.cshtml.g.cs
-C:\Users\f5216125\OneDrive - FRG\Desktop\Varsity 2020\Semester 2\CMPG 323 - IT Development\Project_2\Stefan_Proj2\Stefan_Proj2\obj\Debug\netcoreapp3.1\Razor\Views\Datasets\Details.cshtml.g.cs
-C:\Users\f5216125\OneDrive - FRG\Desktop\Varsity 2020\Semester 2\CMPG 323 - IT Development\Project_2\Stefan_Proj2\Stefan_Proj2\obj\Debug\netcoreapp3.1\Razor\Views\Datasets\Edit.cshtml.g.cs
 C:\Users\f5216125\OneDrive - FRG\Desktop\Varsity 2020\Semester 2\CMPG 323 - IT Development\Project_2\Stefan_Proj2\Stefan_Proj2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\f5216125\OneDrive - FRG\Desktop\Varsity 2020\Semester 2\CMPG 323 - IT Development\Project_2\Stefan_Proj2\Stefan_Proj2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\f5216125\OneDrive - FRG\Desktop\Varsity 2020\Semester 2\CMPG 323 - IT Development\Project_2\Stefan_Proj2\Stefan_Proj2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
@@ -381,4 +377,10 @@ C:\Users\f5216125\OneDrive - FRG\Desktop\Varsity 2020\Semester 2\CMPG 323 - IT D
 C:\Users\f5216125\OneDrive - FRG\Desktop\Varsity 2020\Semester 2\CMPG 323 - IT Development\Project_2\Stefan_Proj2\Stefan_Proj2\obj\Debug\netcoreapp3.1\Stefan_Proj2.dll
 C:\Users\f5216125\OneDrive - FRG\Desktop\Varsity 2020\Semester 2\CMPG 323 - IT Development\Project_2\Stefan_Proj2\Stefan_Proj2\obj\Debug\netcoreapp3.1\Stefan_Proj2.pdb
 C:\Users\f5216125\OneDrive - FRG\Desktop\Varsity 2020\Semester 2\CMPG 323 - IT Development\Project_2\Stefan_Proj2\Stefan_Proj2\obj\Debug\netcoreapp3.1\Stefan_Proj2.genruntimeconfig.cache
+C:\Users\f5216125\OneDrive - FRG\Desktop\Varsity 2020\Semester 2\CMPG 323 - IT Development\Project_2\Stefan_Proj2\Stefan_Proj2\obj\Debug\netcoreapp3.1\Razor\Views\Datasets\Create.cshtml.g.cs
+C:\Users\f5216125\OneDrive - FRG\Desktop\Varsity 2020\Semester 2\CMPG 323 - IT Development\Project_2\Stefan_Proj2\Stefan_Proj2\obj\Debug\netcoreapp3.1\Razor\Views\Datasets\Delete.cshtml.g.cs
+C:\Users\f5216125\OneDrive - FRG\Desktop\Varsity 2020\Semester 2\CMPG 323 - IT Development\Project_2\Stefan_Proj2\Stefan_Proj2\obj\Debug\netcoreapp3.1\Razor\Views\Datasets\Details.cshtml.g.cs
+C:\Users\f5216125\OneDrive - FRG\Desktop\Varsity 2020\Semester 2\CMPG 323 - IT Development\Project_2\Stefan_Proj2\Stefan_Proj2\obj\Debug\netcoreapp3.1\Razor\Views\Datasets\Edit.cshtml.g.cs
 C:\Users\f5216125\OneDrive - FRG\Desktop\Varsity 2020\Semester 2\CMPG 323 - IT Development\Project_2\Stefan_Proj2\Stefan_Proj2\obj\Debug\netcoreapp3.1\Razor\Views\Datasets\Index.cshtml.g.cs
+C:\Users\f5216125\OneDrive - FRG\Desktop\Varsity 2020\Semester 2\CMPG 323 - IT Development\Project_2\Stefan_Proj2\Stefan_Proj2\obj\Debug\netcoreapp3.1\Razor\Views\Datasets\Index_User.cshtml.g.cs
+C:\Users\f5216125\OneDrive - FRG\Desktop\Varsity 2020\Semester 2\CMPG 323 - IT Development\Project_2\Stefan_Proj2\Stefan_Proj2\obj\Debug\netcoreapp3.1\Razor\Views\Datasets\Index_Default.cshtml.g.cs

@@ -19,10 +19,41 @@ namespace Stefan_Proj2.Controllers
             _context = context;
         }
 
-        // GET: Datasets
+        public async Task<IActionResult> Index_User()
+        {
+            return View(await _context.Dataset.ToListAsync());
+        }
+
         public async Task<IActionResult> Index()
         {
             return View(await _context.Dataset.ToListAsync());
+        }
+
+        // GET: Datasets
+        public async Task<IActionResult> Index_Default(string Id)
+        {
+            var User = await _context.AspNetUsers.FindAsync(Id);
+            if (Id == "e7c703e5-9657-449c-8c49-d563d6dabfc5")
+            {
+                return RedirectToAction(nameof(Index));
+            }
+            else
+                if(Id != "e7c703e5-9657-449c-8c49-d563d6dabfc5" && Id != null)
+            {
+                return RedirectToAction(nameof(Index_User));
+            }
+            return NotFound();
+            /*       var User = await _context.AspNetUsers.FindAsync(Id);
+                   if (User == null)
+                   {
+                       return NotFound();
+                   }
+                   else
+                   if(Id != "e7c703e5-9657-449c-8c49-d563d6dabfc5")
+                   {
+                       return RedirectToAction(nameof(Index_User));
+                   }
+               return View(await _context.Dataset.ToListAsync());*/
         }
 
         // GET: Datasets/Details/5

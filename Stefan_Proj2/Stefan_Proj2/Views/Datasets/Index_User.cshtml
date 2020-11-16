@@ -4,9 +4,8 @@
 
 <h1>Dataset</h1>
 
-<p>
-    <a asp-action="Create">Create New Employee</a>
-</p>
+<h4>Test User</h4>
+
 <table class="table">
     <thead>
         <tr>
@@ -228,10 +227,9 @@
         @Html.DisplayFor(modelItem => item.YearsWithCurrManager)
     </td>
     <td>
-        <a asp-action="Edit" asp-route-id="@item.EmployeeNumber">Edit</a> |
-        <a asp-action="Details" asp-route-id="@item.EmployeeNumber">Details</a> |
-        <a asp-action="Delete" asp-route-id="@item.EmployeeNumber">Delete</a>
+        <a asp-action="Details" asp-route-id="@item.EmployeeNumber">Details</a>
     </td>
-</tr>}
+</tr>
+}
     </tbody>
 </table>
