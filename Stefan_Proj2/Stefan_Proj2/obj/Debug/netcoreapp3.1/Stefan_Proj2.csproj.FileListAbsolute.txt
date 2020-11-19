@@ -383,4 +383,4 @@ C:\Users\f5216125\OneDrive - FRG\Desktop\Varsity 2020\Semester 2\CMPG 323 - IT D
 C:\Users\f5216125\OneDrive - FRG\Desktop\Varsity 2020\Semester 2\CMPG 323 - IT Development\Project_2\Stefan_Proj2\Stefan_Proj2\obj\Debug\netcoreapp3.1\Razor\Views\Datasets\Edit.cshtml.g.cs
 C:\Users\f5216125\OneDrive - FRG\Desktop\Varsity 2020\Semester 2\CMPG 323 - IT Development\Project_2\Stefan_Proj2\Stefan_Proj2\obj\Debug\netcoreapp3.1\Razor\Views\Datasets\Index.cshtml.g.cs
 C:\Users\f5216125\OneDrive - FRG\Desktop\Varsity 2020\Semester 2\CMPG 323 - IT Development\Project_2\Stefan_Proj2\Stefan_Proj2\obj\Debug\netcoreapp3.1\Razor\Views\Datasets\Index_User.cshtml.g.cs
-C:\Users\f5216125\OneDrive - FRG\Desktop\Varsity 2020\Semester 2\CMPG 323 - IT Development\Project_2\Stefan_Proj2\Stefan_Proj2\obj\Debug\netcoreapp3.1\Razor\Views\Datasets\Index_Default.cshtml.g.cs
+C:\Users\f5216125\OneDrive - FRG\Desktop\Varsity 2020\Semester 2\CMPG 323 - IT Development\Project_2\Stefan_Proj2\Stefan_proj2\bin\Debug\netcoreapp3.1\aws-beanstalk-tools-defaults.json

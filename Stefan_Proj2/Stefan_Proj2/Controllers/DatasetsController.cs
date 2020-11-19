@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -10,6 +11,7 @@ using Stefan_Proj2.Models;
 
 namespace Stefan_Proj2.Controllers
 {
+    [Authorize]
     public class DatasetsController : Controller
     {
         private readonly TestProject2Context _context;
@@ -18,19 +20,17 @@ namespace Stefan_Proj2.Controllers
         {
             _context = context;
         }
-
-        public async Task<IActionResult> Index_User()
+        /*public async Task<IActionResult> Index_User()
         {
             return View(await _context.Dataset.ToListAsync());
-        }
-
+        }*/
         public async Task<IActionResult> Index()
         {
             return View(await _context.Dataset.ToListAsync());
         }
 
         // GET: Datasets
-        public async Task<IActionResult> Index_Default(string Id)
+        /*public async Task<IActionResult> Index_Default(string Id)
         {
             var User = await _context.AspNetUsers.FindAsync(Id);
             if (Id == "e7c703e5-9657-449c-8c49-d563d6dabfc5")
@@ -53,8 +53,8 @@ namespace Stefan_Proj2.Controllers
                    {
                        return RedirectToAction(nameof(Index_User));
                    }
-               return View(await _context.Dataset.ToListAsync());*/
-        }
+               return View(await _context.Dataset.ToListAsync());
+        }*/
 
         // GET: Datasets/Details/5
         public async Task<IActionResult> Details(string id)
